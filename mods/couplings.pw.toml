@@ -1,0 +1,13 @@
+name = "Couplings"
+filename = "Couplings-1.9.0+1.19.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0415d5e93b191094902516f479e183e8eb29f51d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827640
+project-id = 311120

@@ -1,0 +1,13 @@
+name = "Minihic's Soupy Survival"
+author = "minihic"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ac4f4a3a0f2e70bbafd0bda7492563a5373cc1dd8a637061aae1f7027a445ce9"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.1-beta.1"
